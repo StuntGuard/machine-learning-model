@@ -17,7 +17,7 @@ Target category: normal, tall, stunted, and severely stunted
 The model is compiled Adam optimizer with several arguments configuration and sparse categorical crossentropy loss. The metric used is accuracy.
 
 ## Result
-Our test accuracy is up to 0.8993152379989624. However, there are many things that can be improved, such as: aggregating data from other source, adding new feature inputs, tune the model again, etc.
+Our test accuracy is up to 89%. However, there are many things that can be improved, such as: aggregating data from other source, adding new feature inputs, tune the model again, etc.
 
 ### Note
-* If you run the model, make sure that you run it from the beginning to get the 'Variables for normalization'. 
+If you run the model, make sure that you run it from the beginning to get the 'Variables for normalization'. 
